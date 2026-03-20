@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1774017662 source:c:\msys64\mingw64\bai5lab1\main.cpp
+	<iostream>
+	<iomanip>
+	<cctype>
+
